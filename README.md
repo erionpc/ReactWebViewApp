@@ -2,7 +2,7 @@
 Desktop app built with Typescript, React, ASPNET Core and WebView2
 
 # Notes
-Use Evergreen WebView2 Runtime
+Use Evergreen WebView2 Runtime. Original article: https://itnext.io/write-a-desktop-app-with-react-typescript-asp-net-core-and-webview2-3a15daef4d64.
 
 WebView2 on a Windows Forms application and spin an instance of ASP.NET Core with Kestrel.
 
