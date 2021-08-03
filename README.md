@@ -8,10 +8,12 @@ WebView2 on a Windows Forms application and spin an instance of ASP.NET Core wit
 
 # Steps
 ## 1. Create react app using vs template
-```dotnet new react -o my-new-app
+```
+dotnet new react -o my-new-app
 cd my-new-app
 dotnet build
-dotnet run```
+dotnet run
+```
 
 ## 2. Use typescript
 ```
